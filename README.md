@@ -9,6 +9,7 @@ Return the minimum cost to reach the top of the floor.
 Example 1:
 
 Input: cost = [10,15,20]
+
 Output: 15
 Explanation: You will start at index 1.
 - Pay 15 and climb two steps to reach the top.
