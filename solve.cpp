@@ -1,5 +1,3 @@
-
-
 class Solution {
 public:
     int solve(vector<int>&cost,int n){
